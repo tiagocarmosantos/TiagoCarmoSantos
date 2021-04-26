@@ -1,4 +1,4 @@
-### Hi there, I'm Tiago Carmo Santos - aka [tiagoNerv][website] 👋
+### Hi there, I'm Tiago Carmo Santos - aka [tiagoNerv][course] 👋
 
 <!-- [![Website](https://miro.medium.com/fit/c/40/40/1*HH5yIWs5L9U2814AYM1rZw.gif)](https://medium.com/@tiagocarmosantos)
 [![Twitter Follow](https://pbs.twimg.com/profile_images/1364817710/contra_luz_400x400.jpg)](https://twitter.com/tiagocarmosanto) -->
