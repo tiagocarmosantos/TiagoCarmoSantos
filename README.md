@@ -36,7 +36,9 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][gitRepo]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][gitRepo]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][gitRepo]
+[<img align="left" alt="Redux" width="26px" src="https://camo.githubusercontent.com/a664defdd5c2ec93a3fbfb51e0f2aaafa5dc57bf1e13aa47456ced037b3cebe8/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />][gitRepo]
 [<img align="left" alt="NextJS" width="26px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />][gitRepo]
+[<img align="left" alt="Flutter" width="26px" src="https://i.pinimg.com/originals/c1/65/1f/c1651f598d212acdfe551f103548e495.png" />][gitRepo]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][gitRepo]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][gitRepo]
 [<img align="left" alt="MySQL" width="26px" src="http://lrodrigo.sgs.lncc.br/wp/wp-content/uploads/2017/11/mysql_hosting.png" />][gitRepo]
@@ -47,6 +49,9 @@
 [<img align="left" alt="C#" width="26px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />][gitRepo]
 [<img align="left" alt="JAVA" width="26px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />][gitRepo]
 [<img align="left" alt="Oracle" width="26px" src="https://1.bp.blogspot.com/-qPXInhFPI7I/XYIzpSov7II/AAAAAAAALLA/zbDYpdCC0gcoegUaQbV8lL_bWEKXjSIaACLcBGAsYHQ/s1600/oracle-cloud-logo.png" />][gitRepo]
+[<img align="left" alt="MaterialDesignLite" width="26px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/24370/preview_image/mdl.png" />][gitRepo]
+[<img align="left" alt="AngularJS" width="26px" src="https://img2.gratispng.com/20180701/rht/kisspng-angularjs-logo-javascript-security-token-5b38e22b8a3f38.7851363415304545715663.jpg" />][gitRepo]
+[<img align="left" alt="JQuery" width="26px" src="https://logodownload.org/wp-content/uploads/2017/10/jquery-logo.png" />][gitRepo]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gitRepo]
 
 <br />
