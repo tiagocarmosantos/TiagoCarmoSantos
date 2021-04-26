@@ -84,7 +84,9 @@
 <!-- </details> -->
 
 <!-- <details> -->
-  <summary>:zap: GitHub Stats</summary>
+  <!-- <summary>:zap: GitHub Stats</summary> -->
+  
+  ### ⚡ GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tiagocarmosantos&show_icons=true&hide_border=true" />
 
