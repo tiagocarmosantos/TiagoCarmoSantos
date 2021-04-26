@@ -1,11 +1,11 @@
 ### Hi there, I'm Tiago Carmo Santos - aka [tiagoNerv][website] 👋
 
-[![Website](https://miro.medium.com/fit/c/40/40/1*HH5yIWs5L9U2814AYM1rZw.gif)](https://medium.com/@tiagocarmosantos)
-[![Twitter Follow](https://pbs.twimg.com/profile_images/1364817710/contra_luz_400x400.jpg)](https://twitter.com/tiagocarmosanto)
+<!-- [![Website](https://miro.medium.com/fit/c/40/40/1*HH5yIWs5L9U2814AYM1rZw.gif)](https://medium.com/@tiagocarmosantos)
+[![Twitter Follow](https://pbs.twimg.com/profile_images/1364817710/contra_luz_400x400.jpg)](https://twitter.com/tiagocarmosanto) -->
 
 ## I'm a Husband and Full Stack Developer!!
 
-- 🔭 I just launched my first tutorial: [Como Contornar a Segurança por CORS][website]!
+- 🔭 I just launched my first tutorial: [Como Contornar a Segurança por CORS][website]
 - 🌱 I’m currently learning everything 🤣, looking to become a solution architect,
 - 🌱 Nowadays putting focus in DEV FrontEnd (React, NextJS and Flutter),
 - 🌱 Nowadays putting focus in DEV BackEnd (NodeJS, JavaSpring), 
@@ -31,19 +31,19 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="NextJS" width="26px" src="https://www.honext.io/static/images/next_logo.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][gitRepo]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][gitRepo]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][gitRepo]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][gitRepo]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][gitRepo]
+[<img align="left" alt="NextJS" width="26px" src="https://www.honext.io/static/images/next_logo.png" />][gitRepo]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][gitRepo]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][gitRepo]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][gitRepo]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][gitRepo]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitRepo]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gitRepo]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gitRepo]
 
 <br />
 <br />
@@ -53,20 +53,20 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Como Contornar a Segurança por CORS (2020)][devTips]!
+- [Como Contornar a Segurança por CORS (2020)][devTips]
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]!
+➡️ [more videos...][youtube]
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Contornar a Segurança por CORS][website]!
+- [Como Contornar a Segurança por CORS][website]
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...][website]
 
 ---
 
@@ -101,3 +101,4 @@
 [jsplaylist]: https://open.spotify.com/playlist/25awem2URSig7O35PJ0Eyu?si=a223c9e6dcd4491e
 [cssplaylist]: https://open.spotify.com/playlist/37i9dQZF1DZ06evO1MEzV6?si=3b189b478ac6436e
 [reactplaylist]: https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3?si=qt7rtI2GQAGAsGurtEFlBw
+[gitRepo]: https://github.com/tiagocarmosantos?tab=repositories
