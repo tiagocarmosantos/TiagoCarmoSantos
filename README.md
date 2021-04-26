@@ -46,7 +46,7 @@
 [<img align="left" alt="DotNet" width="26px" src="https://dejanstojanovic.net/media/131809/1x1.png" />][gitRepo]
 [<img align="left" alt="C#" width="26px" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />][gitRepo]
 [<img align="left" alt="JAVA" width="26px" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />][gitRepo]
-[<img align="left" alt="Oracle" width="26px" src="https://img-21.ccm2.net/tAQ2E-bc67TqVJJMNyFjss29dPM=/500x/92d9e6e45dbe4e4da95186664b540a98/ccm-faq/18077-oracle-logo-s-.png" />][gitRepo]
+[<img align="left" alt="Oracle" width="26px" src="https://1.bp.blogspot.com/-qPXInhFPI7I/XYIzpSov7II/AAAAAAAALLA/zbDYpdCC0gcoegUaQbV8lL_bWEKXjSIaACLcBGAsYHQ/s1600/oracle-cloud-logo.png" />][gitRepo]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][gitRepo]
 
 <br />
