@@ -81,14 +81,14 @@
 5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
 <!--END_SECTION:activity-->
 
-</details> -->
+<!-- </details> -->
 
-<details>
+<!-- <details> -->
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tiagocarmosantos&show_icons=true&hide_border=true" />
 
-</details>
+<!-- </details> -->
 
 [website]: https://medium.com/@tiagocarmosantos
 [course]: https://www.sololearn.com/profile/2138389
