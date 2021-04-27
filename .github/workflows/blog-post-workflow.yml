@@ -10,7 +10,7 @@ jobs:
       name: Update this repo`s README with latest blog posts
       runs-on: ubuntu-latest
       steps:
-        - uses: actions/chechout@v2
+        - uses: actions/checkout@v2
         - uses: tiagocarmosantos/blog-post-workflow@master
           with:
             feed_list: "http://medium.com/feed/@tiagocarmosantos"
