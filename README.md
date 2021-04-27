@@ -81,7 +81,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Contornar a Segurança por CORS](https://medium.com/@tiagocarmosantos/como-contornar-a-seguran%C3%A7a-por-cors-8634f501d3ef?source=rss-23e91311bad6------2)
+- [Como Contornar a Segurança por CORS](https://medium.com/tiagos-world-tricks-and-tips/como-contornar-a-seguran%C3%A7a-por-cors-8634f501d3ef?source=rss----a309fafd01d---4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
