@@ -67,15 +67,13 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
+<!-- - [Como Contornar a Segurança por CORS (2020)][devTips] -->
 <!-- YOUTUBE:START -->
-- [Como Contornar a Segurança por CORS (2020)][devTips]
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
 
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
