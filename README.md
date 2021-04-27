@@ -75,11 +75,10 @@
 ➡️ [more videos...][youtube]
 
 ---
-
+<!-- - [Como Contornar a Segurança por CORS][website] -->
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Contornar a Segurança por CORS][website]
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
