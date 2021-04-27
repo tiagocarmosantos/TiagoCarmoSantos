@@ -14,4 +14,4 @@ jobs:
         - uses: gautamkrishnar/blog-post-workflow@master
           with:
             comment_tag_name: "BLOG-POST-LIST"
-            feed_list: "http://medium.com/feed/@tiagocarmosantos"
+            feed_list: "https://medium.com/feed/tiagos-world-tricks-and-tips"
