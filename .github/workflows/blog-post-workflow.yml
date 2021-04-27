@@ -11,6 +11,6 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - uses: actions/checkout@v2
-        - uses: TiagoCarmoSantos/blog-post-workflow@master
+        - uses: tiagocarmosantos/TiagoCarmoSantos@master
           with:
             feed_list: "http://medium.com/feed/@tiagocarmosantos"
