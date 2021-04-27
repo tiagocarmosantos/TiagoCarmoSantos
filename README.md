@@ -68,7 +68,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Como Contornar a Segurança por CORS (2020)][devTips]
+- [Watch me stream Duel Links on Omlet Arcade!](https://www.youtube.com/watch?v=v4JC1EdSDAo)
+- [Watch me stream Among Us on Omlet Arcade!](https://www.youtube.com/watch?v=3DKyaqZoQoQ)
+- [Watch me stream Genshin Impact on Omlet Arcade!](https://www.youtube.com/watch?v=l3Y_1x4Kbow)
+- [Watch me stream Among Us on Omlet Arcade!](https://www.youtube.com/watch?v=hejKRmRSlis)
+- [Tiago's World - Dicas Desenvolvimento - Como Contornar a Segurança por CORS](https://www.youtube.com/watch?v=POCP4g6wuRY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -77,7 +81,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Contornar a Segurança por CORS][website]
+- [Como Contornar a Segurança por CORS](https://medium.com/@tiagocarmosantos/como-contornar-a-seguran%C3%A7a-por-cors-8634f501d3ef?source=rss-23e91311bad6------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
