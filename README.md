@@ -104,9 +104,9 @@
 <!-- <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
   
-  ### ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tiagocarmosantos&show_icons=true&hide_border=true&count_private=true?theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tiagocarmosantos&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 <!-- </details> -->
 
