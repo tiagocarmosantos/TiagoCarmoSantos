@@ -68,11 +68,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Tiago's World - Beabadoobee - Coffe Cover](https://www.youtube.com/watch?v=OYDdVAC7RtU)
 - [Watch me stream Duel Links on Omlet Arcade!](https://www.youtube.com/watch?v=v4JC1EdSDAo)
 - [Watch me stream Among Us on Omlet Arcade!](https://www.youtube.com/watch?v=3DKyaqZoQoQ)
 - [Watch me stream Genshin Impact on Omlet Arcade!](https://www.youtube.com/watch?v=l3Y_1x4Kbow)
 - [Watch me stream Among Us on Omlet Arcade!](https://www.youtube.com/watch?v=hejKRmRSlis)
-- [Tiago's World - Dicas Desenvolvimento - Como Contornar a Segurança por CORS](https://www.youtube.com/watch?v=POCP4g6wuRY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
