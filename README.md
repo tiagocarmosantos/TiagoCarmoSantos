@@ -81,6 +81,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Offline Data— Choose Strategy by File Type](https://medium.com/tiagos-world-tricks-and-tips/offline-data-choose-strategy-by-file-type-e003cebec567?source=rss----a309fafd01d---4)
 - [Como Contornar a Segurança por CORS](https://medium.com/tiagos-world-tricks-and-tips/como-contornar-a-seguran%C3%A7a-por-cors-8634f501d3ef?source=rss----a309fafd01d---4)
 <!-- BLOG-POST-LIST:END -->
 
