@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning everything 🤣, looking to become a solution architect,
 - 🌱 Nowadays putting focus in DEV FrontEnd (React, NextJS and Flutter),
 - 🌱 Nowadays putting focus in DEV BackEnd (NodeJS, JavaSpring), 
-- 🌱 Nowadays putting focus in DevOps (Docker, Kubernetes and Jenkins),
+- 🌱 Nowadays putting focus in DevOps (Docker, Kubernetes),
 - 👯 I’m looking to collaborate with other content creators
 - 👯 I am involved in the Google Knative Open Source community, participating in monthly alignment meetings via Google Meet with the Knative team. And getting ready to collaborate with the source code of Knative on Slack Platform
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to series and play guitar
+- ⚡ Fun fact: I love to watch series and play guitar
 
 ### Spotify Playing 🎧
 
